@@ -2,7 +2,7 @@
   Gerenciador de Tarefas - Task-Manager
 </h2>
 
-### v1.0 - [https://github.com/MrMadaraUchiha/Task-Manager/](https://github.com/MrMadaraUchiha/Task-Manager/)
+### v1.0 - [https://github.com/MrMadaraGames/Task-Manager/](https://github.com/MrMadaraGames/Task-Manager/)
 
 ---
 
